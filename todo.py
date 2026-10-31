@@ -1,14 +1,3 @@
-# task = input("Enter a task: ")
-# with open("task.txt","a") as f:
-#     f.write(task+"\n")
-# print("task save ho gyaa")
-# try:
-#     with open ("todo" , "r") as f:
-#         for line in f:
-#             print("_",line.strip())
-# except FileNotFoundError:
-#            print("file not found")
-
 while True:
     print("\n1. add Task ")
     print("2. view Tasks")
